@@ -1,0 +1,6 @@
+Žalgiris;Lukas;Jermauskas;2003-05-08;3;8;1;
+Žalgiris;Žygis;Kiozis;2003-09-04;3;5;5;8
+Rytas;Joris;Dryžius;2000-01-08;2;8;1;
+Žalgiris;Bronius;Kliokys;2015-07-15;2;4;8;6
+Žalgiris;Gytis;Sriekius;2006-09-04;3;8;0;
+Rytas;Kazys;Binkis;1999-01-09;3;4;3;

@@ -1,0 +1,3 @@
+Žalgiris;Kaunas;Šarūnas;3
+Lietkabelis;Šiauliai;Kęstutis;2
+Rytas;Kaunas;Kisielius;2
